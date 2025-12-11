@@ -1,1 +1,1 @@
-# gm-injector.js
+# gm-injector
